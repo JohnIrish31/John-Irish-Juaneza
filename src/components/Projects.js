@@ -18,7 +18,7 @@ export const Projects = () => {
 		   },
 		   {
 		     title: "Back-End Development",
-		     description: "In this Capstone2, I built an API using node, node Express and store it in MongoDb and Learned CRUD Operations, I also used POSTMAN for my Back-End to see wether it's working or not. The Cannot GET / in the link above it means that my Back-end codes is working",
+		     description: "In this Capstone2, I built an API using node, node Express and store it in MongoDb and Learned CRUD Operations, I also used POSTMAN for my Back-End to see wether it's working or not.",
 		     imgUrl: Card2,
 		   },
 		   {
