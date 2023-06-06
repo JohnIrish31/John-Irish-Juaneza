@@ -6,7 +6,7 @@ import Card3 from "../assets/images/card3.svg"
 
 export const Projects = () => {
 
-	const Capstone1 = "https://johnirish31.github.io/Portfolio/"
+	const Capstone1 = "https://johnirish31.github.io/mockPortfolio/"
 	const Capstone2 = "https://gitlab.com/b279-juaneza/backend/-/tree/master/CAPSTONE2-API"
 	const Capstone3 = "https://fullstack-1gtn00kn5-capstone-3-juaneza.vercel.app/"
 
