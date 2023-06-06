@@ -8,7 +8,7 @@ export const Projects = () => {
 
 	const Capstone1 = "https://johnirish31.github.io/mockPortfolio/"
 	const Capstone2 = "https://gitlab.com/b279-juaneza/backend/-/tree/master/CAPSTONE2-API"
-	const Capstone3 = "https://fullstack-yirg.vercel.app/"
+	const Capstone3 = "https://fullstack-ebon.vercel.app/"
 
 	const projects = [
 		{
