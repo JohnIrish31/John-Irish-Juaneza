@@ -3,7 +3,7 @@ import Me from "../assets/images/me.png"
 
 export const AboutMe = () => {
 
-	const resumeLink = "https://drive.google.com/file/d/1bYvnCUU7NEZ_He3Ke598wAEWSOuMQnE2/view?usp=sharing";
+	const resumeLink = "https://drive.google.com/file/d/17C0Y3DCPtf7VXPC9FW4uenNhqh0UBeKu/view?usp=sharing";
 
 	return(
 
